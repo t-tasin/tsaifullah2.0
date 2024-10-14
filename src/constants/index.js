@@ -1,10 +1,10 @@
-import multi_agent_av from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/multi_agent_avs.jpg";
-import ai_parking from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/ai_parking.jpg";
-import ai_gym from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/ai_gym_trainer.jpg";
-import delivery_system from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/delivery_system.jpg";
-import ai_classroom from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/ai_classroom_att.jpg";
-import social_media from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/social_media.jpg";
-import gummy_ball from "/Users/tasin/Desktop/Codebase/tsaifullah2.0/src/assets/gummy_ball.png";
+import multi_agent_av from "../assets/multi_agent_avs.jpg";
+import ai_parking from "../assets/ai_parking.jpg";
+import ai_gym from "../assets/ai_gym_trainer.jpg";
+import delivery_system from "../assets/delivery_system.jpg";
+import ai_classroom from "../assets/ai_classroom_att.jpg";
+import social_media from "../assets/social_media.jpg";
+import gummy_ball from "../assets/gummy_ball.png";
 
 export const HERO_CONTENT = `I’m KM Khalid Saifullah (Tasin), a passionate software engineer who thrives on creating scalable, secure, and innovative systems. From AI-driven solutions to real-time applications, I’m committed to solving complex problems and delivering impact.`;
 
