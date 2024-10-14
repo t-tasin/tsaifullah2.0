@@ -1,7 +1,6 @@
 import logo from "../assets/tasin_logo.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
 
 const App = () => {
   return (
