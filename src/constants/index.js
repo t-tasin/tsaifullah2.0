@@ -29,7 +29,7 @@ export const EXPERIENCES = [
   {
     year: "May 2023 - December 2023",
     role: "Software Engineer Intern",
-    company: "Adobe",
+    company: "Jomee Jomaa Inc.",
     description: `I led the implementation of advanced JWT authentication with rotating refresh tokens, elevating security standards. I also built 30+ scalable APIs using Django, which improved performance and boosted website optimization from 72% to 96% on Lighthouse.`,
     technologies: [
       "Python",
