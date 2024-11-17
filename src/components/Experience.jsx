@@ -31,7 +31,7 @@ export const Experience = () => {
             >
               <h6 className="mb-2 font-semibold">
                 {experience.role} -{" "}
-                <span className="text-sm text-purple-100">
+                <span className="text-lg font-bold text-purple-200">
                   {experience.company}
                 </span>
               </h6>
@@ -39,7 +39,7 @@ export const Experience = () => {
               {experience.technologies.map((tech, index) => (
                 <span
                   key={index}
-                  className="mr-2 mt-4 rounded bg-neutral-900 px-1 py-1 text-sm font-medium text-purple-800"
+                  className="mr-2 mt-4 rounded bg-neutral-900 px-1 py-1 text-sm font-medium text-purple-300"
                 >
                   {tech}
                 </span>
